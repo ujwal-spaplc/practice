@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hi, this is the second sample file to practice git commands,
 asdfhakhsdfjkahsjkdfbahsdgfhagsd
+=======
+Hi, this is the second sample file to practice git commands..........  ,,
+>>>>>>> mybranch
