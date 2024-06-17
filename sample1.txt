@@ -1,1 +1,1 @@
-Hi, this is the first sample file to practice git commands.
+Hi, this is the first sample file to practice git commands..
